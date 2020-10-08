@@ -4,3 +4,6 @@ LinkedList$Node.class
 reverseLinkedListDataIterative$MyLinkedList.class
 reverseLinkedListDataIterative$Node.class
 reverseLinkedListDataIterative.class
+reverseLinkedListPointerIterative$MyLinkedList.class
+reverseLinkedListPointerIterative$Node.class
+reverseLinkedListPointerIterative.class
