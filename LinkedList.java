@@ -42,9 +42,9 @@ class LinkedList{
             if(idx<0 || idx > size){
                 System.out.println("Invalid Argument");
             }else if(idx == 0){
-                addFirst();
+                addFirst(val);
             }else if(idx == size){
-                addLast();
+                addLast(alv);
             }else{
                 Node node = new Node();
                 node.data = val;
