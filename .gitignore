@@ -14,3 +14,6 @@ linkedListToQueueAdapter$LLToQueueAdapter.class
 getKthElementfromEnd.class
 getKthElementfromEnd$MyLinkedList.class
 getKthElementfromEnd$Node.class
+getMiddleEle.class
+getMiddleEle$MyLinkedList.class
+getMiddleEle$Node.class
