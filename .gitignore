@@ -9,3 +9,5 @@ reverseLinkedListPointerIterative$Node.class
 reverseLinkedListPointerIterative.class
 linkedListToStackAdapter.class
 linkedListToStackAdapter$LLToStackAdapter.class
+linkedListToQueueAdapter.class
+linkedListToQueueAdapter$LLToQueueAdapter.class
