@@ -7,3 +7,5 @@ reverseLinkedListDataIterative.class
 reverseLinkedListPointerIterative$MyLinkedList.class
 reverseLinkedListPointerIterative$Node.class
 reverseLinkedListPointerIterative.class
+linkedListToStackAdapter.class
+linkedListToStackAdapter$LLToStackAdapter.class
