@@ -17,3 +17,6 @@ getKthElementfromEnd$Node.class
 getMiddleEle.class
 getMiddleEle$MyLinkedList.class
 getMiddleEle$Node.class
+merge2SortedLL$MyLinkedList.class
+merge2SortedLL$Node.class
+merge2SortedLL.class
