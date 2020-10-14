@@ -29,3 +29,6 @@ removeDuplicatesFromASortedLinkedList.class
 oddEven$MyLinkedList.class
 oddEven$Node.class
 oddEven.class
+kReverseLinkedList$Node.class
+kReverseLinkedList$MyLinkedList.class
+kReverseLinkedList.class
