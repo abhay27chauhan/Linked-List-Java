@@ -177,10 +177,20 @@ class oddEven{
                 }
             }
 
-            odd.tail.next = even.head;
-            this.head = odd.head;
-            this.tail = even.tail;
-            this.size = odd.size + even.size;
+            if(odd.size >0 && even.size>0){
+                odd.tail.next = even.head;
+                this.head = odd.head;
+                this.tail = even.tail;
+                this.size = odd.size + even.size;
+            }else if(odd.size>0){
+                this.head = odd.head;
+                this.tail = odd.tail;
+                this.size = odd.size;
+            }else{
+                this.head = even.head;
+                this.tail = even.tail;
+                this.size = even.size;
+            }
         }
         
     }
