@@ -35,3 +35,6 @@ kReverseLinkedList.class
 displayReverse$Node.class
 displayReverse$MyLinkedList.class
 displayReverse.class
+reverseLinkedListPointerRecursive$MyLinkedList.class
+reverseLinkedListPointerRecursive$Node.class
+reverseLinkedListPointerRecursive.class
