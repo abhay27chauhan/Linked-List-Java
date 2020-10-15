@@ -32,3 +32,6 @@ oddEven.class
 kReverseLinkedList$Node.class
 kReverseLinkedList$MyLinkedList.class
 kReverseLinkedList.class
+displayReverse$Node.class
+displayReverse$MyLinkedList.class
+displayReverse.class
