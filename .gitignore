@@ -38,3 +38,6 @@ displayReverse.class
 reverseLinkedListPointerRecursive$MyLinkedList.class
 reverseLinkedListPointerRecursive$Node.class
 reverseLinkedListPointerRecursive.class
+reverseLinkedListDataRecursive$MyLinkedList.class
+reverseLinkedListDataRecursive$Node.class
+reverseLinkedListDataRecursive.class
