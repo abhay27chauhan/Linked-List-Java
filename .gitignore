@@ -41,3 +41,6 @@ reverseLinkedListPointerRecursive.class
 reverseLinkedListDataRecursive$MyLinkedList.class
 reverseLinkedListDataRecursive$Node.class
 reverseLinkedListDataRecursive.class
+IsPalindrome$MyLinkedList.class
+IsPalindrome$Node.class
+IsPalindrome.class
