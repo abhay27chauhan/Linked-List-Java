@@ -44,3 +44,6 @@ reverseLinkedListDataRecursive.class
 IsPalindrome$MyLinkedList.class
 IsPalindrome$Node.class
 IsPalindrome.class
+foldALinkedList$MyLinkedList.class
+foldALinkedList$Node.class
+foldALinkedList.class
