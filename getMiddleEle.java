@@ -181,7 +181,7 @@ class getMiddleEle{
             tail.next = null;
         }
 
-        int getMiddleEle(int k){
+        int getMiddleEle(){
             Node s = head;
             Node f = head;
 
@@ -199,6 +199,6 @@ class getMiddleEle{
         for(int i=10; i<100; i += 10){
             list.addLast(i);
         }
-        System.out.println(list.getMiddleEle(2));
+        System.out.println(list.getMiddleEle());
     }
 }
